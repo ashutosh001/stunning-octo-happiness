@@ -1,33 +1,33 @@
-# Welcome to the OctoVerse - Octopus Python Party!
+# Welcome to the Polar OctoFrost - Arctic Python Adventure!
 
-class Octopus:
+class PolarOcto:
     def __init__(self, name):
         self.name = name
 
-    def tentacle_dance(self):
-        print(f"{self.name} is doing the Tentacle Dance. It's a hit in the ocean dance floors!")
+    def icy_tentacle_twirl(self):
+        print(f"{self.name} gracefully twirls its icy tentacles. A dance of frost and elegance!")
 
-    def ink_attack(self, target):
-        print(f"Beware! {self.name} squirts ink at {target}. A master of camouflage!")
+    def frosty_ink_blast(self, target):
+        print(f"Watch out! {self.name} releases a burst of frosty ink at {target}. Subzero surprise!")
 
-    def octo_magic(self):
-        print(f"{self.name} is practicing ancient octo-magic. Cephalopod sorcery at its finest!")
+    def arctic_octo_magic(self):
+        print(f"{self.name} practices ancient arctic octo-magic. Conjuring frost and snowstorms!")
 
-# Let's summon some octopuses and make them perform!
+# Let's summon the Polar OctoFrost clan and let the Arctic Python Adventure unfold!
 
-octopus_party = []
+polar_octofrost_clan = []
 
 for i in range(1, 101):
-    octopus_name = f"Octo{i}"
-    octo = Octopus(octopus_name)
-    octopus_party.append(octo)
+    polar_octo_name = f"PolarOcto{i}"
+    polar_octo = PolarOcto(polar_octo_name)
+    polar_octofrost_clan.append(polar_octo)
 
-# Time for the octopus extravaganza!
+# Time for the Polar OctoFrost Arctic Python Adventure!
 
-for octo in octopus_party:
-    octo.tentacle_dance()
-    octo.ink_attack("Predator")
-    octo.octo_magic()
-    print("-" * 30)
+for polar_octo in polar_octofrost_clan:
+    polar_octo.icy_tentacle_twirl()
+    polar_octo.frosty_ink_blast("Seal")
+    polar_octo.arctic_octo_magic()
+    print("-" * 40)
 
-print("The OctoVerse Python Party was a blast!")
+print("The Polar OctoFrost Arctic Python Adventure was an icy marvel!")
