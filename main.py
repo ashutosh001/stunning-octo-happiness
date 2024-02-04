@@ -1,33 +1,41 @@
-# Welcome to the Polar OctoFrost - Arctic Python Adventure!
+# Welcome to the Enchanting Abyss of Octo-Sharks - Epic Aquatic Python Odyssey!
 
-class PolarOcto:
+class OctoShark:
     def __init__(self, name):
         self.name = name
 
-    def icy_tentacle_twirl(self):
-        print(f"{self.name} gracefully twirls its icy tentacles. A dance of frost and elegance!")
+    def aquatic_tentacle_swirl(self):
+        print(f"{self.name} performs an enchanting tentacle swirl, casting a mesmerizing spell beneath the ocean waves.")
 
-    def frosty_ink_blast(self, target):
-        print(f"Watch out! {self.name} releases a burst of frosty ink at {target}. Subzero surprise!")
+    def ink_surge_attack(self, target):
+        print(f"Danger! {self.name} unleashes a powerful surge of ink at {target}. A strategic move in the heart of the abyss!")
 
-    def arctic_octo_magic(self):
-        print(f"{self.name} practices ancient arctic octo-magic. Conjuring frost and snowstorms!")
+    def deep_sea_octo_shark_magic(self):
+        print(f"{self.name} taps into the mystical currents of deep-sea octo-shark magic, creating ethereal wonders in the aquatic realm.")
 
-# Let's summon the Polar OctoFrost clan and let the Arctic Python Adventure unfold!
+    def sonar_echo_location(self):
+        print(f"{self.name} employs sophisticated sonar techniques, navigating the dark abyss with precision. Echoes resonate through the ocean depths.")
 
-polar_octofrost_clan = []
+    def luminescent_camo_display(self):
+        print(f"{self.name} showcases a stunning display of luminescent camouflage, blending seamlessly with the bioluminescent creatures of the deep.")
+
+# Let's summon the Octo-Shark legion and embark on an Epic Aquatic Python Odyssey!
+
+octo_shark_legion = []
 
 for i in range(1, 101):
-    polar_octo_name = f"PolarOcto{i}"
-    polar_octo = PolarOcto(polar_octo_name)
-    polar_octofrost_clan.append(polar_octo)
+    octo_shark_name = f"OctoShark{i}"
+    octo_shark = OctoShark(octo_shark_name)
+    octo_shark_legion.append(octo_shark)
 
-# Time for the Polar OctoFrost Arctic Python Adventure!
+# Time for the Enchanting Abyss of Octo-Sharks Epic Aquatic Python Odyssey!
 
-for polar_octo in polar_octofrost_clan:
-    polar_octo.icy_tentacle_twirl()
-    polar_octo.frosty_ink_blast("Seal")
-    polar_octo.arctic_octo_magic()
-    print("-" * 40)
+for octo_shark in octo_shark_legion:
+    octo_shark.aquatic_tentacle_swirl()
+    octo_shark.ink_surge_attack("Prey")
+    octo_shark.deep_sea_octo_shark_magic()
+    octo_shark.sonar_echo_location()
+    octo_shark.luminescent_camo_display()
+    print("-" * 60)
 
-print("The Polar OctoFrost Arctic Python Adventure was an icy marvel!")
+print("The Enchanting Abyss of Octo-Sharks Epic Aquatic Python Odyssey was an awe-inspiring underwater saga!")
