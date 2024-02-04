@@ -1,41 +1,36 @@
-# Welcome to the Enchanting Abyss of Octo-Sharks - Epic Aquatic Python Odyssey!
+# Welcome to the Whimsical Octo-Panda Dreamscape - Mystical Python Panda Adventure 2.0!
 
-class OctoShark:
+class OctoPanda:
     def __init__(self, name):
         self.name = name
 
-    def aquatic_tentacle_swirl(self):
-        print(f"{self.name} performs an enchanting tentacle swirl, casting a mesmerizing spell beneath the ocean waves.")
+    def bamboo_tentacle_tango(self):
+        print(f"{self.name} gracefully performs the bamboo tentacle tango, a mesmerizing dance uniting the elegance of pandas and the fluidity of octopuses.")
 
-    def ink_surge_attack(self, target):
-        print(f"Danger! {self.name} unleashes a powerful surge of ink at {target}. A strategic move in the heart of the abyss!")
+    def ink_bamboo_artistry(self, target):
+        print(f"Behold! {self.name} creates intricate ink bamboo artistry, turning {target} into a canvas of magical wonders.")
 
-    def deep_sea_octo_shark_magic(self):
-        print(f"{self.name} taps into the mystical currents of deep-sea octo-shark magic, creating ethereal wonders in the aquatic realm.")
+    def mystical_octo_panda_magic(self):
+        print(f"{self.name} harnesses the mystical energies of octopuses and pandas, weaving spells that paint the bamboo forest with enchantment.")
 
-    def sonar_echo_location(self):
-        print(f"{self.name} employs sophisticated sonar techniques, navigating the dark abyss with precision. Echoes resonate through the ocean depths.")
+    def bamboo_munch(self):
+        print(f"{self.name} indulges in a bamboo feast, savoring the unique flavors with the appetite of both octopuses and pandas. A culinary masterpiece!")
 
-    def luminescent_camo_display(self):
-        print(f"{self.name} showcases a stunning display of luminescent camouflage, blending seamlessly with the bioluminescent creatures of the deep.")
+    def playful_panda_roll(self):
+        print(f"{self.name} engages in a playful panda roll, combining the joyous antics of pandas with the somersaults of octopuses. A delightful spectacle!")
 
-# Let's summon the Octo-Shark legion and embark on an Epic Aquatic Python Odyssey!
+    def panda_octo_dreamscape(self):
+        print(f"{self.name} enters a whimsical dreamscape, where the realms of pandas and octopuses intertwine in a surreal dance of imagination.")
 
-octo_shark_legion = []
+# Let's summon the Octo-Panda dreamers and embark on the Whimsical Octo-Panda Dreamscape!
+
+octo_panda_dreamers = []
 
 for i in range(1, 101):
-    octo_shark_name = f"OctoShark{i}"
-    octo_shark = OctoShark(octo_shark_name)
-    octo_shark_legion.append(octo_shark)
+    octo_panda_dreamer_name = f"DreamyOctoPanda{i}"
+    octo_panda_dreamer = OctoPanda(octo_panda_dreamer_name)
+    octo_panda_dreamers.append(octo_panda_dreamer)
 
-# Time for the Enchanting Abyss of Octo-Sharks Epic Aquatic Python Odyssey!
+# Time for the Whimsical Octo-Panda Dreamscape - Mystical Python Panda Adventure 2.0!
 
-for octo_shark in octo_shark_legion:
-    octo_shark.aquatic_tentacle_swirl()
-    octo_shark.ink_surge_attack("Prey")
-    octo_shark.deep_sea_octo_shark_magic()
-    octo_shark.sonar_echo_location()
-    octo_shark.luminescent_camo_display()
-    print("-" * 60)
-
-print("The Enchanting Abyss of Octo-Sharks Epic Aquatic Python Odyssey was an awe-inspiring underwater saga!")
+fo
