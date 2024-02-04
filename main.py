@@ -1,33 +1,33 @@
-# Welcome to the Polar OctoFrost - Arctic Python Adventure!
+# Welcome to the Depths of Octo-Sharks - Aquatic Python Thrills!
 
-class PolarOcto:
+class OctoShark:
     def __init__(self, name):
         self.name = name
 
-    def icy_tentacle_twirl(self):
-        print(f"{self.name} gracefully twirls its icy tentacles. A dance of frost and elegance!")
+    def aquatic_tentacle_swirl(self):
+        print(f"{self.name} performs a mesmerizing tentacle swirl underwater. A dance of the Octo-Shark realm!")
 
-    def frosty_ink_blast(self, target):
-        print(f"Watch out! {self.name} releases a burst of frosty ink at {target}. Subzero surprise!")
+    def ink_surge_attack(self, target):
+        print(f"Danger! {self.name} unleashes a surge of ink at {target}. A tactical move in the depths!")
 
-    def arctic_octo_magic(self):
-        print(f"{self.name} practices ancient arctic octo-magic. Conjuring frost and snowstorms!")
+    def deep_sea_octo_shark_magic(self):
+        print(f"{self.name} taps into deep-sea octo-shark magic. Mystical currents and aquatic wonders!")
 
-# Let's summon the Polar OctoFrost clan and let the Arctic Python Adventure unfold!
+# Let's summon the Octo-Shark squad and embark on an Aquatic Python Thrill!
 
-polar_octofrost_clan = []
+octo_shark_squad = []
 
 for i in range(1, 101):
-    polar_octo_name = f"PolarOcto{i}"
-    polar_octo = PolarOcto(polar_octo_name)
-    polar_octofrost_clan.append(polar_octo)
+    octo_shark_name = f"OctoShark{i}"
+    octo_shark = OctoShark(octo_shark_name)
+    octo_shark_squad.append(octo_shark)
 
-# Time for the Polar OctoFrost Arctic Python Adventure!
+# Time for the Depths of Octo-Sharks Aquatic Python Thrills!
 
-for polar_octo in polar_octofrost_clan:
-    polar_octo.icy_tentacle_twirl()
-    polar_octo.frosty_ink_blast("Seal")
-    polar_octo.arctic_octo_magic()
-    print("-" * 40)
+for octo_shark in octo_shark_squad:
+    octo_shark.aquatic_tentacle_swirl()
+    octo_shark.ink_surge_attack("Prey")
+    octo_shark.deep_sea_octo_shark_magic()
+    print("-" * 45)
 
-print("The Polar OctoFrost Arctic Python Adventure was an icy marvel!")
+print("The Depths of Octo-Sharks Aquatic Python Thrill was an oceanic spectacle!")
