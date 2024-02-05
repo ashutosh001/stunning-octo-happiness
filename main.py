@@ -33,4 +33,4 @@ for i in range(1, 101):
 
 # Time for the Whimsical Octo-Panda Dreamscape - Mystical Python Panda Adventure 2.0!
 
-fo
+print()
